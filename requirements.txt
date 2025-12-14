@@ -1,0 +1,11 @@
+streamlit
+pandas
+pymongo
+google-generativeai
+requests
+beautifulsoup4
+duckduckgo-search
+wikipedia
+lxml
+html5lib
+dnspython

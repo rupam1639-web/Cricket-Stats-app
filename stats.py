@@ -14,7 +14,7 @@ st.set_page_config(page_title="Cricket Stats Hub", page_icon="🏏", layout="wid
 # ==========================================
 # 🔑 PASTE KEYS HERE
 # ==========================================
-GEMINI_API_KEY = "AIzaSyAqKDQ2rp1f8PzqRUAGrMFavcVzV5bRUz0"
+GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
 MONGO_URI = "mongodb+srv://rupam1639_db_user:Rupam%402007@cluster0.zgnf6pz.mongodb.net/?appName=Cluster0" 
 # ==========================================
 
